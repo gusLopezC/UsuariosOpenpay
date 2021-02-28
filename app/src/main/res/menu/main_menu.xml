@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/principal"
+        android:title="Inicio"
+        android:icon="@drawable/ic_casa"/>
+
+    <item android:id="@+id/adeudo"
+        android:title="Adeudo"
+        android:icon="@drawable/ic_adeudo"/>
+
+    <item android:id="@+id/pagos"
+        android:title="Pagos"
+        android:icon="@drawable/ic_pagos"/>
+
+    <item android:id="@+id/lecturas"
+        android:title="Lecturas"
+        android:icon="@drawable/ic_lecturas"/>
+
+    <item android:id="@+id/reporte"
+        android:title="Reportes"
+        android:icon="@drawable/ic_agregar"/>
+
+</menu>
